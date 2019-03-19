@@ -14,4 +14,4 @@ echo " Will be restarting your computer in a moment"
 
 sleep 2
 
-sudo reboot
+sudo shutdown -r now
